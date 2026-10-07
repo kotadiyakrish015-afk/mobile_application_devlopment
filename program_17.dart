@@ -1,0 +1,11 @@
+import 'dart:io';
+void main()
+{
+  String address = '''
+  nirbhay
+  agravat
+  atmiya
+  university
+  ''';
+  print(address);
+}

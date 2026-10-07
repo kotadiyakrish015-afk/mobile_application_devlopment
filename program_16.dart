@@ -1,0 +1,12 @@
+import 'dart:io';
+void main()
+{
+  dynamic a = 15;
+  dynamic b = "nirbhay";
+  dynamic c = true;
+  dynamic d = 2.65;
+  print(a);
+  print(b);
+  print(c);
+  print(d);
+}
